@@ -1,0 +1,7 @@
+qrcode
+pygame
+flask
+web2py
+web3
+kivy
+django
